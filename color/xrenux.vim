@@ -10,7 +10,7 @@
 " File:         xrenux.vim
 " Maintainer:   Yasmani Avila (yasavilar@gmail.com)
 " Version:      1.0
-" Last Change:  April 01 2013
+" Last Change:  June 03 2013
 
 " Copyright (c) 2013 Yasmani Avila.
 " MIT License: 
